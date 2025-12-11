@@ -1,10 +1,13 @@
-# 👃 **Electronic Nose (E-Nose) — Integrated Smart Gas Sensing System**
+# 💻 **Electronic Nose (E-Nose) — Integrated Smart Gas Sensing System**
 ### *Course Project — Signal Processing Systems, Department of Instrumentation Engineering, Institut Teknologi Sepuluh Nopember (ITS)*
 
 ---
 
 ## 👩‍💻 **Prepared by**
-**Sintia (NIM — fill accordingly)**  
+* **Sintia Ompusunggu** (2042241113)
+* **galen zahid wajendra** (2042241044)
+* **Rijal Difaul Haq** (2042241097)
+   
 Department of Instrumentation Engineering  
 Institut Teknologi Sepuluh Nopember
 
@@ -292,4 +295,3 @@ This platform is suitable for:
 
 ---
 
-# ✨ **End of Documentation — Academic English Version**
