@@ -71,7 +71,7 @@ Please ensure the following tools are installed:
 
 ---
 
-# 🛠️ **Setup & Installation (One-Time Only)**
+# 🛠️ **Setup & Installation**
 
 ## **1️⃣ Initialize Database (InfluxDB with Docker)**
 
