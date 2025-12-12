@@ -295,3 +295,7 @@ This platform is suitable for:
 
 ---
 
+📺 Demo Video  
+[Tonton Video](https://youtu.be/NEjYxcyJVmo?si=-s_EwkkVfYRz6kNd)
+
+---
